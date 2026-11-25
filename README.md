@@ -16,6 +16,8 @@ IR Sensors
 
 LEDs
 
+12v Power Supply 
+
 3.Working Principle
 
 Normal Mode – 10% Intensity
