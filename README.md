@@ -18,7 +18,19 @@ LEDs
 
 12v Power Supply 
 
-3.Working Principle
+3.Technologies Used
+
+Arduino Uno
+
+Embedded C/C++ (Arduino programming)
+
+LDR-based light sensing
+
+
+
+
+
+4.Working Principle
 
 Normal Mode – 10% Intensity
 
