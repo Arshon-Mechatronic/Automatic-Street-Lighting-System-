@@ -4,6 +4,7 @@
 
 An intelligent street lighting system designed to improve energy efficiency by automatically controlling streetlight intensity based on vehicle movement.
 
+
 2.Hardware Components
 
 PIC16F877A Microcontroller
@@ -18,6 +19,7 @@ LEDs
 
 12v Power Supply 
 
+
 3.Technologies Used
 
 Arduino Uno
@@ -26,8 +28,7 @@ Embedded C/C++ (Arduino programming)
 
 LDR-based light sensing
 
-
-
+Four Channel Relay Switching 
 
 
 4.Working Principle
