@@ -26,7 +26,7 @@ Arduino Uno
 
 Embedded C/C++ (Arduino programming)
 
-LDR-based light sensing
+IR-based motion sensing
 
 Four Channel Relay Switching 
 
